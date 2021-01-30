@@ -1,6 +1,7 @@
 # COVID-Net
 Model for COVID detection in X-Rays
 Further a Flask based platform is finished for easy inference on images.
+Developed @BISAG
 
 ## Dataset
 Augemented + Segmented + Equalized : https://drive.google.com/drive/folders/1VP-g1lDvGn-WytEFYnvoBe1oqsMtkV2n?usp=sharing
