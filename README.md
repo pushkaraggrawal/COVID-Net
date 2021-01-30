@@ -19,6 +19,6 @@ CAM analysis on non-segmented images, model learns irrelevant features. Overfitt
 
 ![seg](https://user-images.githubusercontent.com/57294033/106353439-9677eb00-6310-11eb-8c7e-954c43b94112.png)
 
-CAM analysis on segmented images, model learns imporrtant features which are further verified by professional diagnosis of the same image.
+CAM analysis on segmented images, model learns important features which are further verified by professional diagnosis of the same image.
 
 
