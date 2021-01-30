@@ -11,10 +11,12 @@ Input Image -> Augmentation -> Segmentation -> Mask Cropping -> VGG16 -> Diagnos
 
 ## CAM results
 
-![no-seg](https://user-images.githubusercontent.com/57294033/106353307-8f9ca880-630f-11eb-891c-dc0492903bef.png) 
+![no-seg](https://user-images.githubusercontent.com/57294033/106353420-76482c00-6310-11eb-9b3b-092865355207.png)
 
 CAM analysis on non-segmented images, model learns irrelevant features. Overfitting to other source semantics.
 
-![seg](https://user-images.githubusercontent.com/57294033/106353309-91ff0280-630f-11eb-9d36-378a59178a52.png) 
+![seg](https://user-images.githubusercontent.com/57294033/106353439-9677eb00-6310-11eb-8c7e-954c43b94112.png)
 
 CAM analysis on segmented images, model learns imporrtant features which are further verified by professional diagnosis of the same image.
+
+
